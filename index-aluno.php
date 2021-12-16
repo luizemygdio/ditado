@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+<!-- Página inicial -->
 <?php 
     session_start();
     require_once 'app/classe/sistema.php';
